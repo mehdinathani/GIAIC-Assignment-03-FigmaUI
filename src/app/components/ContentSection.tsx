@@ -1,6 +1,5 @@
 import React from "react";
 import Image from "next/image";
-import { withRouter } from "next/router";
 
 interface ContentSectionProps {
     firsttext: string,
